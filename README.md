@@ -10,3 +10,7 @@
 
 - [ ] Organize for more easy and general usage
 - [ ] Add usage example and how to use it as `git submodule`
+
+## Related
+
+- [LINK](https://github.com/encedo/hex2dfu)
